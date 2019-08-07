@@ -15,9 +15,8 @@ Note: the I2C bus pull-up resistors are populated on the SprakFun MMA8452Q, just
 
 **Source code:**
 
-Parts of the code related to interfacing the MMA8452Q 3-axis accelerometer over I2C bus are derived from SparkFun MMA8452 Arduino library: https://github.com/sparkfun/SparkFun_MMA8452Q_Arduino_Library
+The MMA8452Q I2C driver is derived from SparkFun MMA8452 Arduino library: https://github.com/sparkfun/SparkFun_MMA8452Q_Arduino_Library
 and "Arduino and MMA8452 sensor example" blog post listed here: http://arduinolearning.com/code/arduino-and-mma8452-sensor-example.php
-
 
 **Screenshot:**
 
