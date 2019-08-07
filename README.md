@@ -9,7 +9,7 @@ The hardware is built using MMA8452Q 3-axis accelerometer module from SparkFun (
 
 **Schematic:**
 
-<img width="553" alt="MMA8452-MCP2221_circuit" src="https://user-images.githubusercontent.com/8460504/62651860-c9eddb00-b90e-11e9-8e04-38fdca868ec6.png">
+<p align="center"> <img width="553" alt="MMA8452-MCP2221_circuit" src="https://user-images.githubusercontent.com/8460504/62651860-c9eddb00-b90e-11e9-8e04-38fdca868ec6.png"> </p>
 
 Note: the I2C bus pull-up resistors are populated on the SprakFun MMA8452Q, just in case you are wondering why I haven't put them in the schematic.
 
