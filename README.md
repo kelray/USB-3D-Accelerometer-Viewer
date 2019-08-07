@@ -3,7 +3,8 @@
 
 This is the source code and schematic for a USB-connected 3D accelerometer viewer, it real-time graphs the motion in X, Y and Z directions in terms of gravitational acceleration "g". The GUI provides control on the MCP2221A 4 GPIOs pins, where you can turn them on/off.
 
-Project hardware:
+**Project hardware:**
+
 The hardware is built using MMA8452Q 3-axis accelerometer module from SparkFun (MMA8452Q IC is from InvenSense) and MCP2221A USB-to-I2C bridge from Microchip. 
 
 **Schematic:**
