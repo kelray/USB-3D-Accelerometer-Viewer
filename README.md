@@ -11,6 +11,7 @@ The hardware is built using MMA8452Q 3-axis accelerometer module from SparkFun (
 <img width="553" alt="MMA8452-MCP2221_circuit" src="https://user-images.githubusercontent.com/8460504/62651860-c9eddb00-b90e-11e9-8e04-38fdca868ec6.png">
 
 **Source code:**
+
 Parts of the code related to interfacing the MMA8452Q 3-axis accelerometer over I2C bus are derived from SparkFun MMA8452 Arduino library: https://github.com/sparkfun/SparkFun_MMA8452Q_Arduino_Library
 and "Arduino and MMA8452 sensor example" blog post listed here: http://arduinolearning.com/code/arduino-and-mma8452-sensor-example.php
 
