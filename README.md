@@ -24,4 +24,5 @@ and "Arduino and MMA8452 sensor example" blog post listed here: http://arduinole
 - Qt version 5.11 or higher
 
 Please let me know if you notice any errors or problems with the source code.
+
 **Disclaimer: Cannot be used for any life-critical application, use it at your own risk.**
