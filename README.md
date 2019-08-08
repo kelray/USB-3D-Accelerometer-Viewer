@@ -23,8 +23,8 @@ and "Arduino and MMA8452 sensor example" blog post listed here: http://arduinole
 <p align="center"> <img width="326" alt="MMA8452 3-Axis viewer_v2_2" src="https://user-images.githubusercontent.com/8460504/62651842-be9aaf80-b90e-11e9-966e-6bb1a2da8496.png"> </p>
 
 **Other dependencies:**
-- MCP2221A C++ library and DLL version 2.1.1 from Microchip Technologies
-- Qt version 5.11 or higher
+- MCP2221A C++ library and DLL version 2.1.1 from Microchip Technologies (included in the project files).
+- Qt version 5.11 or higher.
 
 Please let me know if you notice any errors or problems with the source code.
 
