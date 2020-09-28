@@ -1,4 +1,4 @@
-# USB-3D-Accelerometer-Viewer
+# USB 3D Accelerometer Viewer
 **USB 3D accelerometer viewer using MMA8452Q**
 
 This is the source code and schematic for a USB-connected 3D accelerometer viewer, it real-time graphs the motion in X, Y and Z directions in terms of gravitational acceleration "g". The GUI provides control on the MCP2221A 4 GPIOs pins, where you can turn them on/off.
